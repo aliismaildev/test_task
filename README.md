@@ -62,7 +62,7 @@ The project uses a feature-first structure, with shared modules in `core` and fe
 
 Add all screenshots inside the `screenshots/` folder, then keep one folder link here:
 
-- [View Screenshots](https://github.com/username/project-name/tree/main/screenshots)
+- [View Screenshots](https://github.com/aliismaildev/test_task/tree/main/screenshots)
 
 ## 4) App Video
 
